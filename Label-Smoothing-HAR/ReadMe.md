@@ -10,9 +10,9 @@ reference) `When Does Label Smoothing Help? (2020)`
 - 왜 효과적인가?
     - Loss Function으로 CE Loss를 사용한다고 가정.
     
-    $$
+    $
     L=-\sum\limits_{i=1}^K y_i\log p_i 
-    $$
+    $
     
     - Hard targets([1, 0, 0, 0])을 사용하면 = 정답 class를 제외하고 나머지는 y=0이 된다. → 해당 Loss Function을 통해 역전파를 수행할 때 **거의, 정답 class에 대해서만 집중적으로 학습**한다.
     
