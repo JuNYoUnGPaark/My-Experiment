@@ -5,3 +5,5 @@
 → Sensor별 representation이 더 깔끔하게 분리되는건가? 
 
    
+<img width="682" height="204" alt="image" src="https://github.com/user-attachments/assets/092e49ec-8b2d-45d1-b7f4-90d3f7a3ac2d" />
+
